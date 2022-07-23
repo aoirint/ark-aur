@@ -1,0 +1,4 @@
+/.env*
+/ark-server
+/ark-server-backups
+
